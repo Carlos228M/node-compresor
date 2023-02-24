@@ -1,8 +1,8 @@
 {
-   "name": "node-template",
+   "name": "node-compresor",
    "version": "1.0.0",
    "type": "module",
-   "description": "Plantilla base proyectos Node.js",
+   "description": "Compresor de archivos",
    "scripts": {
       "dev": "nodemon src/index.js",
       "start": "node src/index.js",
